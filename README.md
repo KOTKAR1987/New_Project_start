@@ -5,4 +5,6 @@ New development project
 main
 {
  print "Hello"
+
+ print "change.file"
 }
